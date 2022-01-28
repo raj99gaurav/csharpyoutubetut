@@ -1,0 +1,7 @@
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\bin\Debug\Multi_Dimension_Array.exe.config
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\bin\Debug\Multi_Dimension_Array.exe
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\bin\Debug\Multi_Dimension_Array.pdb
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\obj\Debug\Multi_Dimension_Array.csproj.AssemblyReference.cache
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\obj\Debug\Multi_Dimension_Array.csproj.CoreCompileInputs.cache
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\obj\Debug\Multi_Dimension_Array.exe
+D:\Study\DSA\TUT VIDEO\Multi_Dimension_Array\Multi_Dimension_Array\obj\Debug\Multi_Dimension_Array.pdb
