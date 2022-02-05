@@ -1,0 +1,7 @@
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\bin\Debug\Jagged_Array_Intro.exe.config
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\bin\Debug\Jagged_Array_Intro.exe
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\bin\Debug\Jagged_Array_Intro.pdb
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\obj\Debug\Jagged_Array_Intro.csproj.AssemblyReference.cache
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\obj\Debug\Jagged_Array_Intro.csproj.CoreCompileInputs.cache
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\obj\Debug\Jagged_Array_Intro.exe
+D:\Study\DSA\TUT VIDEO\Jagged_Array\Jagged_Array_Intro\Jagged_Array_Intro\obj\Debug\Jagged_Array_Intro.pdb
